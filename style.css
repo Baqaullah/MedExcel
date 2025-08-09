@@ -168,7 +168,7 @@ footer {
 /* --------------------
    Responsive Styling
 -------------------- */
-@media (max-width: 768px) {
+@media (max-width: 680px) {
   .navbar {
     flex-wrap:wrap;
   }
@@ -204,3 +204,4 @@ footer {
     margin-left: 70%;
   }
 }
+
